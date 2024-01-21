@@ -1,0 +1,8 @@
+- cvzone
+- opencv-python
+- mediapipe
+- serial
+- pyserial
+- cmake
+- dlib
+- face-recognition
